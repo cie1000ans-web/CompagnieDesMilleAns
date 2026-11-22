@@ -1,0 +1,91 @@
+LA COMPAGNIE DES MILLE ANS — GUIDE DES PHOTOGRAPHIES
+
+Ce dossier contient les 17 photographies personnelles fournies et optimisées pour le site.
+Tous les noms de fichier sont conformes à assets/js/config.js.
+Les images ont été recadrées sans déformation et compressées en JPEG pour un chargement plus rapide.
+Les cadrages privilégient les personnes en costume et leurs visages, ainsi que les objets présentés.
+
+INSTALLATION :
+  - Si vous utilisez le ZIP « site complet », les images sont déjà intégrées.
+  - Sinon, remplacer les 17 JPG dans compagnie-mille-ans-site/assets/photos/.
+  - Respecter précisément les noms ci-dessous (minuscules, accents absents).
+  - Ouvrir index.html, puis vérifier les rubriques et la galerie.
+
+PHOTOS ET UTILISATION :
+
+• moyen-age.jpg — 1200 × 909 px
+  Emplacement : Accueil (grande image) et rubrique Moyen Âge
+  Cadrage : Recadrage sur le manuscrit et les objets anciens
+
+• renaissance.jpg — 1400 × 903 px
+  Emplacement : Accueil et Temps modernes
+  Cadrage : Deux personnes en costume conservées au centre
+
+• xixe-siecle.jpg — 1400 × 903 px
+  Emplacement : Page des périodes historiques
+  Cadrage : Trois personnes conservées dans le cadrage
+
+• seconde-guerre-mondiale.jpg — 944 × 629 px
+  Emplacement : Accueil et Seconde Guerre mondiale
+  Cadrage : Visage, casque, uniforme, arme et véhicule conservés ; plan rapproché
+
+• reconstitutions.jpg — 526 × 329 px
+  Emplacement : Page des reconstitutions et carte activité
+  Cadrage : Personnage en costume, stand et tente
+
+• ateliers.jpg — 1400 × 875 px
+  Emplacement : Ateliers et carte activité
+  Cadrage : Objets et outils de démonstration
+
+• conferences-gesticulees.jpg — 407 × 255 px
+  Emplacement : Conférences gesticulées
+  Cadrage : Intervenant en costume face au public
+
+• conferences.jpg — 1152 × 720 px
+  Emplacement : Conférences
+  Cadrage : Visuel de la conférence Lesdiguières
+
+• escrime.jpg — 1150 × 737 px
+  Emplacement : Escrime de spectacle
+  Cadrage : Visage, tricorne, costume et épées visibles
+
+• jonglerie-feu.jpg — 1450 × 935 px
+  Emplacement : Jonglerie de feu
+  Cadrage : Flamme et scène conservées
+
+• danse-historique.jpg — 678 × 437 px
+  Emplacement : Danse historique
+  Cadrage : Personnes en costume et ronde conservées
+
+• galerie-01.jpg — 1400 × 933 px
+  Emplacement : Galerie photographique
+  Cadrage : Costume de cuisine et démonstration culinaire
+
+• galerie-02.jpg — 1400 × 933 px
+  Emplacement : Galerie photographique
+  Cadrage : Table, fruits et vaisselle
+
+• galerie-03.jpg — 1250 × 833 px
+  Emplacement : Galerie photographique
+  Cadrage : Deux personnes en costumes, visages préservés
+
+• galerie-04.jpg — 1250 × 833 px
+  Emplacement : Galerie photographique
+  Cadrage : Personnage en costume, visage et geste d’écriture
+
+• galerie-05.jpg — 1400 × 933 px
+  Emplacement : Galerie photographique
+  Cadrage : Personne en costume dans une pièce patrimoniale
+
+• galerie-06.jpg — 1400 × 933 px
+  Emplacement : Galerie photographique
+  Cadrage : Groupe et véhicule de la Seconde Guerre mondiale
+
+REMARQUES :
+  - Les originaux ne sont pas modifiés. Conservez-les de votre côté pour de futurs recadrages.
+  - Les deux petites photos source (reconstitutions, conférences gesticulées) peuvent paraître
+    légèrement moins nettes en grand affichage ; la résolution d’origine est limitée.
+  - Une photo utilisée pour le bandeau est encore cadrée à l’écran par CSS (object-fit: cover).
+    Les cadrages ont été choisis pour limiter toute perte de visage dans ces différents formats.
+  - Avant publication, vérifier les autorisations de diffusion et droits à l’image.
+  - La configuration Google Forms demeure à compléter dans assets/js/config.js.
