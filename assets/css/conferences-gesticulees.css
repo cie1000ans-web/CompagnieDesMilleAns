@@ -1,0 +1,28 @@
+/* Conférences gesticulées : deux récits. Styles indépendants des autres pages. */
+.histoires-heading { max-width: 960px; }
+.histoires-heading p { max-width: 88ch; }
+.histoires-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+.histoires-section .histoire-card {
+  min-width: 0; overflow: hidden; display: flex; flex-direction: column;
+  background: #fffdf8; border: 1px solid var(--edge, #dfd2be);
+  box-shadow: var(--shadow, 0 8px 26px rgba(0,0,0,.08));
+}
+.histoires-section .atelier-topic-image {
+  display: block; width: 100%; aspect-ratio: 8 / 5; height: auto;
+  object-fit: cover; object-position: center 40%; background: #e4dbcf;
+}
+.histoires-section .atelier-topic-body { padding: 25px 28px 30px; display: flex; flex-direction: column; flex: 1; }
+.histoires-section .atelier-topic-kicker {
+  color: var(--gold, #a98134); font-weight: 700; font-size: .70rem;
+  letter-spacing: .14em; text-transform: uppercase;
+}
+.histoires-section .histoire-card h3 {
+  font-size: clamp(1.35rem, 2vw, 1.65rem); line-height: 1.22;
+  color: var(--burgundy, #76202c); margin: 10px 0 13px;
+}
+.histoires-section .histoire-card p { color: #514a43; font-size: .94rem; line-height: 1.7; margin: 0; max-width: none; }
+.histoires-note { border-left: 3px solid var(--gold, #a98134); padding: 3px 0 3px 18px; margin: 28px 0 0; color: var(--muted, #625a53); font-size: .94rem; }
+@media (max-width: 700px) {
+  .histoires-grid { grid-template-columns: 1fr; gap: 20px; }
+  .histoires-section .atelier-topic-body { padding: 20px 22px 25px; }
+}
